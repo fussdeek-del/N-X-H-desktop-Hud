@@ -110,13 +110,49 @@ My PC isn't that powerful tbh. Whenever I push it — gaming, rendering, compili
 ```
 NXH/
 ├── README.md
-├── bom.csv
-├── pcb/                  # KiCad project files (.kicad_pro, .kicad_sch, .kicad_pcb, gerbers.zip)
-├── cad/                  # FreeCAD source files + exported .step and .stl
-├── firmware/             # C++ source code for Raspberry Pi Pico
-├── app/                  # Python companion desktop app
-└── assets/               # All images used in this README
-```
+├── BOM components.csv
+│
+├── APP/
+│   └── hud-app/
+│       ├── main.py
+│       ├── config.py
+│       ├── metrics.py
+│       ├── tray.py
+│       ├── hud_settings.json
+│       └── core/
+│           ├── formatter.py
+│           ├── metrics.py
+│           ├── sender.py
+│           └── __init__.py
+│
+├── ASSETS/
+│   ├── banner.png
+│   ├── exploded.png
+│   ├── front.png
+│   ├── pcb.png
+│   ├── schematic.png
+│   ├── app-screenshot.png
+│   ├── wiring.png
+│   └── zine-page.png
+│
+├── CAD/
+│   ├── HUD case neww.FCStd          ← FreeCAD source
+│   ├── HUD case new.step            ← full assembly export
+│   ├── PCB new.step                 ← PCB 3D model
+│   └── Display TFT-ST7789-240X320 V2.step
+│
+├── FIRMWARE/
+│   └── hud-firmware/
+│       ├── platformio.ini
+│       └── SRC/
+│           └── main.cpp
+│
+└── PCB/
+    ├── gerber new.zip               ← submit this to JLCPCB
+    └── PCB new/
+        ├── real PCB.kicad_pro
+        ├── real PCB.kicad_sch
+        └── real PCB.kicad_pcb
 
 ---
 
