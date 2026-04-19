@@ -1,0 +1,8 @@
+This firmware runs on RP2040 and displays system stats received over USB serial.
+
+Data format:
+FPS:72;CPU:45;RAM:60;DISK:70;TIME:12:45:33;
+
+It parses incoming data and renders it on an ST7789 TFT display.
+
+this frimware is not fully done. so there might be some bugs. its will be optimized one pcb arrives.
