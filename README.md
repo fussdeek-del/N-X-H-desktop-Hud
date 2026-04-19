@@ -155,6 +155,7 @@ NXH/
         └── real PCB.kicad_pcb
 
 ---
+---
 
 ## Wiring diagram
 
@@ -174,6 +175,7 @@ NXH/
 | GND (pin 38) | GND | Ground |
 
 ---
+
 
 ## Zine page
 
