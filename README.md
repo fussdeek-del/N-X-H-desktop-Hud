@@ -4,9 +4,6 @@
 
 > A always-on hardware HUD that sits on ur desk and shows live CPU, RAM, DISK, FPS and TIME — no alt-tabbing, no task manager, just plug and go.
 
-<p align="center">
-  <img src="assets/banner.png" alt="NXH Desktop HUD" width="100%"/>
-</p>
 
 ---
 
