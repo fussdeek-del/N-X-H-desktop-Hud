@@ -153,7 +153,7 @@ NXH/
         ├── real PCB.kicad_pro
         ├── real PCB.kicad_sch
         └── real PCB.kicad_pcb
----
+```
 ---
 
 ## Wiring diagram
