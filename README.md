@@ -153,6 +153,50 @@ NXH/
         ├── real PCB.kicad_pro
         ├── real PCB.kicad_sch
         └── real PCB.kicad_pcb
+---
+---
 
+## Wiring diagram
+
+<p align="center">
+  <img src="assets/wiring.png" alt="Wiring diagram — Pico to TFT, reset button, USB-C passives" width="80%"/>
+</p>
+
+| Pico pin | TFT pin | Signal |
+|---|---|---|
+| GP16 | CS | Chip select |
+| GP17 | SCK | SPI clock |
+| GP19 | MOSI | SPI data |
+| GP20 | DC | Data/command |
+| GP21 | RST | Reset |
+| GP22 | BL | Backlight |
+| 3V3 (pin 36) | VCC | 3.3V power |
+| GND (pin 38) | GND | Ground |
+
+---
+
+
+## Zine page
+
+*Made for Hack Club Fallout — Shenzhen 2025*
+
+<p align="center">
+  <img src="assets/zine-page.png" alt="NXH Zine page — Nabeel × Hashir, Pakistan" width="60%"/>
+</p>
+
+---
+
+## Credits
+
+- [KiCad](https://www.kicad.org/) — PCB design and schematic
+- [FreeCAD](https://www.freecad.org/) — 3D enclosure design
+- [Hack Club Fallout](https://fallout.hackclub.com) — grant program that made this real
+- Python + psutil — companion app backend
+
+Made with love by **Nabeel (18) × Hashir (17)** — Pakistan 🇵🇰
+
+---
+
+## License
 
 This project is licensed under the [MIT License](LICENSE).
