@@ -22,18 +22,19 @@ My PC isn't that powerful tbh. Whenever I push it — gaming, rendering, compili
 
 ## Demo
 
+
 <p align="center">
-  <img src="assets/exploded.png" alt="Exploded 3D view — enclosure, PCB, and TFT display" width="48%"/>
-  <img src="assets/front.png" alt="Front panel — how the device looks from the outside" width="48%"/>
+  <img src="ASSETS/exploded.png" alt="Exploded 3D view" width="48%"/>
+  <img src="ASSETS/front.png" alt="Front panel view" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="assets/pcb.png" alt="PCB layout — KiCad top layer view" width="48%"/>
-  <img src="assets/schematic.png" alt="Full schematic — Pico, TFT, USB-C, decoupling" width="48%"/>
+  <img src="ASSETS/pcb.png" alt="PCB layout" width="48%"/>
+  <img src="ASSETS/schematic.png" alt="Full schematic" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="assets/app-screenshot.png" alt="HUD Monitor companion app — CPU, RAM, DISK, FPS, TIME" width="60%"/>
+  <img src="ASSETS/app-screenshot.png" alt="HUD Monitor companion app" width="60%"/>
 </p>
 
 ---
@@ -159,7 +160,7 @@ NXH/
 ## Wiring diagram
 
 <p align="center">
-  <img src="assets/wiring.png" alt="Wiring diagram — Pico to TFT, reset button, USB-C passives" width="80%"/>
+  <img src="ASSETS/wiring.png" alt="Wiring diagram" width="80%"/>
 </p>
 
 | Pico pin | TFT pin | Signal |
@@ -181,7 +182,7 @@ NXH/
 *Made for Hack Club Fallout — Shenzhen 2025*
 
 <p align="center">
-  <img src="assets/zine-page.png" alt="NXH Zine page — Nabeel × Hashir, Pakistan" width="60%"/>
+  <img src="ASSETS/zine-page.png" alt="NXH Zine page — Nabeel x Hashir, Pakistan" width="60%"/>
 </p>
 
 ---
