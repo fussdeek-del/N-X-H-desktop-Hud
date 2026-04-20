@@ -1,32 +1,33 @@
-Components ,spec,Quantity ,Link to buy,Price,delivery ,total,Must read notes
+Components ,spec,Quantity ,Link to buy,Price,Total,Must read notes
 Raspberry Pi Pico,"RP2040, micro-USB, 2MB flash, original Raspberry Pi
-Must be original needs TP1 TP2 TP3 test pads on bottom",x1,https://www.aliexpress.com/item/1005008948799927.html,$3.53,,,
+Must be original needs TP1 TP2 TP3 test pads on bottom",x1,https://www.aliexpress.com/item/1005008948799927.html,$3.53,,
 "2.4"" TFT Display","ST7789V driver, 240×320, SPI, 8-pin, 3.3V
-Pins: GND VCC SCK MOSI CS DC RST BL",x1,https://www.aliexpress.com/item/1005009546154656.html,$4.47,,,
+Pins: GND VCC SCK MOSI CS DC RST BL",x1,https://www.aliexpress.com/item/1005009546154656.html,$4.47,,
 USB-C Connector,"Female SMD 16-pin receptacle, horizontal mount, USB 2.0
-Compatible with GCT USB4105-GF-A footprint",x1  (pack of 5),https://www.aliexpress.com/item/1005008515699009.html,$1.17,,,
+Compatible with GCT USB4105-GF-A footprint",x1  (pack of 5),https://www.aliexpress.com/item/1005008515699009.html,$1.17,,
 Resistor 5.1kΩ 0805,"5.1kΩ, 0805 SMD, 5%, 1/8W
-R1 and R2 CC1 CC2 USB-C pull-downs",×2  (pack of 100),https://www.aliexpress.com/item/1005009613956367.html, $1.72,,,
+R1 and R2 CC1 CC2 USB-C pull-downs",×2  (pack of 100),https://www.aliexpress.com/item/1005009613956367.html, $1.72,,
 Resistor 27Ω 0805,"27Ω, 0805 SMD, 5%, 1/8W
-R4 and R5 USB D+ D− series resistors",×2 (pack of 100),https://www.aliexpress.com/item/32997835881.html,$0.46,,,
+R4 and R5 USB D+ D− series resistors",×2 (pack of 100),https://www.aliexpress.com/item/32997835881.html,$0.46,,
 Resistor 0Ω 0805,"0Ω, 0805 SMD zero ohm jumper
-R3 AGND to GND bridge",×1 (pack of 100),https://www.aliexpress.com/item/1005007446894308.html,$0.71,,,
+R3 AGND to GND bridge",×1 (pack of 100),https://www.aliexpress.com/item/1005007446894308.html,$0.71,,
 Capacitor 100nF 0805,"100nF, 0805 SMD, 50V, X7R ceramic
-C1 3.3V rail decoupling",×1 (pack of 100),https://www.aliexpress.com/item/1005012084340996.html,$3.11,,,
+C1 3.3V rail decoupling",×1 (pack of 100),https://www.aliexpress.com/item/1005012084340996.html,$3.11,,
 Capacitor 10µF 0805,"10µF, 0805 SMD, 10V, X5R ceramic
-C2 3.3V rail bulk capacitor",×1 (pack of 50),https://www.aliexpress.com/item/32911735940.html,$2.30,,,
+C2 3.3V rail bulk capacitor",×1 (pack of 50),https://www.aliexpress.com/item/32911735940.html,$2.30,,
 Tactile Push Button,"6×6mm SMD 4-pin, height 4.3mm
-SW1 reset button",×1 (pack of 20),https://www.aliexpress.com/item/1005006870418414.html,$1.95,,,
+SW1 reset button",×1 (pack of 20),https://www.aliexpress.com/item/1005006870418414.html,$1.95,,You only need this if you wants to add reset button.
 Male Pin Header 2.54mm,"2.54mm pitch, single row, 40-pin (snap to 8)
-J1 TFT display connector",x1,https://www.aliexpress.com/item/32670970932.html,$0.9,,,
+J1 TFT display connector",x1,https://www.aliexpress.com/item/32670970932.html,$0.9,,
 PCB Manufacturing,"2-layer, FR-4, 1.6mm, HASL, 5 boards
-Upload your Gerber zip to JLCPCB",×5,jlcpcb.com,$3,,,
+Upload your Gerber zip to JLCPCB",×5,jlcpcb.com,$3,,
 3D Enclosure,"Custom HUD case, your FreeCAD/STL design
-Upload STL to JLC3DP",×1,jlc3dp.com,$16.78,,,
+Upload STL to JLC3DP",×1,jlc3dp.com,$16.78,,"i am going with resin of my choice, u can get of your own choice it will be cheap."
 M2 × 6mm Screw + Nut,"M2 × 6mm hex socket head, stainless steel + M2 nuts
-4 screws + 4 nuts mount PCB and Pico to case posts",×4 sets ( kit of 50),https://www.aliexpress.com/item/1005003157957734.html,$0.3,,,
+4 screws + 4 nuts mount PCB and Pico to case posts",×4 sets ( kit of 50),https://www.aliexpress.com/item/1005003157957734.html,$0.3,,
 M3 × 10mm Screw + Nut,"M3 × 10mm hex socket head, stainless steel + M3 nuts
-4 screws + 4 nuts back lid of 3D enclosure",×4 sets (buy kit of 50),https://www.aliexpress.com/item/1005003157957734.html,$0.3,,,
+4 screws + 4 nuts back lid of 3D enclosure",×4 sets (buy kit of 50),https://www.aliexpress.com/item/1005003157957734.html,$0.3,,
 USB-A to USB-C Cable,"1 metre, data + power capable (not charge-only)
-Everyday cable from PC to your HUD device",×1,https://www.aliexpress.com/item/1005006121990031.html,$1.9,,,
-USB-C extention ,USB C 3.1 Gen2 10Gbps Extension Cable Type C to C PD 100W QC4.0 3.0 5A Fast Charging Cable,x1,https://www.aliexpress.com/item/1005006904002741.html,$2.42,,,
+Everyday cable from PC to your HUD device",×1,https://www.aliexpress.com/item/1005006121990031.html,$1.9,,
+USB-C extention ,USB C 3.1 Gen2 10Gbps Extension Cable Type C to C PD 100W QC4.0 3.0 5A Fast Charging Cable,x1,https://www.aliexpress.com/item/1005006904002741.html,$2.42,,"I am using this because o want to my USB port on back, u can customize your design "
+,,,,,$45.02,
