@@ -4,19 +4,16 @@
 
 > A always-on hardware HUD that sits on ur desk and shows live CPU, RAM, DISK, FPS and TIME — no alt-tabbing, no task manager, just plug and go.
 
-<p align="center">
-  <img src="assets/banner.png" alt="NXH Desktop HUD" width="100%"/>
-</p>
 
 ---
 
 ## What is it?
 
-NXH is a compact always-on HUD built around the Raspberry Pi Pico. It plugs into any PC via USB-C and shows live system stats — CPU usage, RAM, disk, FPS, and time — on a 2.4" ST7789V TFT display (240×320, SPI). The whole thing sits in a custom 3D-printed enclosure I designed in FreeCAD. No software window to manage, no hotkeys, it is just always there on ur desk showing you what ur PC is doing.
+NXH is a compact always-on HUD built around the Raspberry Pi Pico. It plugs into any PC via USB-C and shows live system stats CPU usage, RAM, disk, FPS, and time on a 2.4" ST7789V TFT display (240×320, SPI). The whole thing sits in a custom 3D-printed enclosure I designed in FreeCAD. No software window to manage, no hotkeys, it is just always there on ur desk showing you what ur PC is doing.
 
 ## Why I built it
 
-My PC isn't that powerful tbh. Whenever I push it — gaming, rendering, compiling — I always needed to know if it's hitting the limit. Opening task manager takes too long and gets in the way. I wanted something that just *sits there* and tells me. So I built it. Hack Club gave me the chance to actually do it for real, with a proper PCB and everything. Huge shout out to them 🙌
+My PC isn't that powerful tbh. Whenever I push it on gaming, rendering, compiling I always needed to know if it's hitting the limit. Opening task manager takes too long and gets in the way. I wanted something that just *sits there* and tells me. So I built it. Hack Club gave me the chance to actually do it for real, with a proper PCB and everything. Huge shout out to them 🙌
 
 ---
 
@@ -42,12 +39,12 @@ My PC isn't that powerful tbh. Whenever I push it — gaming, rendering, compili
 ## Features
 
 - Raspberry Pi Pico (RP2040) as the main MCU
-- 2.4" ST7789V TFT display — 240×320, SPI, 3.3V
+- 2.4" ST7789V TFT display  240×320, SPI, 3.3V
 - USB-C connectivity (power + data, no drivers needed)
 - Custom 2-layer PCB designed from scratch in KiCad
-- 3D-printed enclosure designed in FreeCAD — back lid, front panel, internal mounts
+- 3D-printed enclosure designed in FreeCAD back lid, front panel, internal mounts
 - C++ firmware running on the Pico
-- Lightweight companion desktop app (Python) — select which stats to display
+- Lightweight companion desktop app (Python) select which stats to display
 - Hardware reset button (SW1) wired to RUN pin
 - Onboard decoupling capacitors on the 3.3V rail (100nF + 10µF)
 - Displays: CPU %, RAM %, Disk %, FPS, System Time
@@ -75,7 +72,7 @@ My PC isn't that powerful tbh. Whenever I push it — gaming, rendering, compili
 | USB-A to USB-C Cable | 1m, data + power capable (not charge-only) | ×1 | $1.90 | [Buy](https://www.aliexpress.com/item/1005006121990031.html) |
 | USB-C Extension Cable | USB-C 3.1 Gen2, PD 100W, 5A — optional if ur port is hard to reach | ×1 | $2.42 | [Buy](https://www.aliexpress.com/item/1005006904002741.html) |
 
-> Full BOM with all specs and notes: [`bom.csv`](bom.csv)
+> Full BOM with all specs and notes: [`BOM components.csv`](bom.csv)
 
 ---
 
