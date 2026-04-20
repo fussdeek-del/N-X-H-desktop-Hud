@@ -78,12 +78,22 @@ My PC isn't that powerful tbh. Whenever I push it on gaming, rendering, compilin
 
 ## How to use
 
-### Flash the firmware
+## Build & Installation Guide
 
-1. Hold the **BOOTSEL** button on the Pico and plug in via USB-C
-2. It shows up as a USB drive on your PC
-3. Copy `firmware/NXH.uf2` (or `main.py` if using MicroPython build) to the drive
-4. Pico reboots by itself and the display turns on
+### Parts needed
+See full BOM table above with links.
+
+### PCB Assembly
+1. Order PCB using gerbers.zip from JLCPCB
+2. Solder SMD components first: R1, R2 (5.1k), R3 (0Ω), R4, R5 (27Ω), C1 (100nF), C2 (10uF), SW1
+3. Solder USB-C connector J2
+4. Place Raspberry Pi Pico on pin headers
+5. Connect TFT display to J1 connector
+
+### Flash Firmware
+1. Hold BOOTSEL on Pico and plug USB-C
+2. Copy FIRMWARE/hud-firmware/SRC/main.cpp compiled .uf2 to the drive
+3. Pico reboots automatically
 
 ### Run the companion app
 
