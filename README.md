@@ -166,10 +166,6 @@ NXH/
 
 ## Wiring diagram
 
-<p align="center">
-  <img src="ASSETS/wiring.png" alt="Wiring diagram" width="80%"/>
-</p>
-
 | Pico pin | TFT pin | Signal |
 |---|---|---|
 | GP17 | CS | Chip select |
