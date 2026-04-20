@@ -72,7 +72,7 @@ My PC isn't that powerful tbh. Whenever I push it on gaming, rendering, compilin
 | USB-A to USB-C Cable | 1m, data + power capable (not charge-only) | ×1 | $1.90 | [Buy](https://www.aliexpress.com/item/1005006121990031.html) |
 | USB-C Extension Cable | USB-C 3.1 Gen2, PD 100W, 5A — optional if ur port is hard to reach | ×1 | $2.42 | [Buy](https://www.aliexpress.com/item/1005006904002741.html) |
 
-> Full BOM with all specs and notes: [`BOM components.csv`](bom.csv)
+[`BOM components.csv`](BOM%20components.csv)
 
 ---
 
@@ -162,8 +162,8 @@ NXH/
 
 | Pico pin | TFT pin | Signal |
 |---|---|---|
-| GP16 | CS | Chip select |
-| GP17 | SCK | SPI clock |
+| GP17 | CS | Chip select |
+| GP18 | SCK | SPI clock |
 | GP19 | MOSI | SPI data |
 | GP20 | DC | Data/command |
 | GP21 | RST | Reset |
