@@ -162,8 +162,8 @@ NXH/
 
 | Pico pin | TFT pin | Signal |
 |---|---|---|
-| GP16 | CS | Chip select |
-| GP17 | SCK | SPI clock |
+| GP17 | CS | Chip select |
+| GP18 | SCK | SPI clock |
 | GP19 | MOSI | SPI data |
 | GP20 | DC | Data/command |
 | GP21 | RST | Reset |
