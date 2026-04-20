@@ -9,7 +9,7 @@
 
 ## What is it?
 
-NXH is a compact always-on HUD built around the Raspberry Pi Pico. It plugs into any PC via USB-C and shows live system stats CPU usage, RAM, disk, FPS, and time — on a 2.4" ST7789V TFT display (240×320, SPI). The whole thing sits in a custom 3D-printed enclosure I designed in FreeCAD. No software window to manage, no hotkeys, it is just always there on ur desk showing you what ur PC is doing.
+NXH is a compact always-on HUD built around the Raspberry Pi Pico. It plugs into any PC via USB-C and shows live system stats CPU usage, RAM, disk, FPS, and time on a 2.4" ST7789V TFT display (240×320, SPI). The whole thing sits in a custom 3D-printed enclosure I designed in FreeCAD. No software window to manage, no hotkeys, it is just always there on ur desk showing you what ur PC is doing.
 
 ## Why I built it
 
