@@ -2,3 +2,5 @@ psutil
 pyserial
 pystray
 Pillow
+
+btw app is not fully optimized, it still need some work
