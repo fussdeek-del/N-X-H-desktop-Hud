@@ -182,7 +182,7 @@ NXH/
 
 ## Zine page
 
-*Made for Hack Club Fallout — Shenzhen 2025*
+*Made for Hack Club Fallout -- Shenzhen 2025*
 
 <p align="center">
   <img src="ASSETS/zine-page.png" alt="NXH Zine page — Nabeel x Hashir, Pakistan" width="60%"/>
