@@ -13,7 +13,7 @@ NXH is a compact always-on HUD built around the Raspberry Pi Pico. It plugs into
 
 ## Why I built it
 
-My PC isn't that powerful tbh. Whenever I push it on gaming, rendering, compiling I always needed to know if it's hitting the limit. Opening task manager takes too long and gets in the way. I wanted something that just *sits there* and tells me. So I built it. Hack Club gave me the chance to actually do it for real, with a proper PCB and everything. Huge shout out to them 🙌
+My PC isn't that powerful tbh. Whenever I push it on gaming, rendering, compiling I always needed to know if it's hitting the limit. Opening task manager takes too long and gets in the way. I wanted something that just *sits there* and tells me. So I built it. Hack Club gave me the chance to actually do it for real, with a proper coustum PCBs and everything. Huge shout out to them 🙌
 
 ---
 
@@ -182,7 +182,7 @@ NXH/
 
 ## Zine page
 
-*Made for Hack Club Fallout — Shenzhen 2025*
+*Made for Hack Club Fallout -- Shenzhen 2025*
 
 <p align="center">
   <img src="ASSETS/zine-page.png" alt="NXH Zine page — Nabeel x Hashir, Pakistan" width="60%"/>
